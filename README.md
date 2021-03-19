@@ -1,4 +1,4 @@
-# JSON-LD to RDF Converter
+# Arches RDF Tool
 
 This script allows you to convert an Arches resource to an RDF format. It is very simple and does not log in so you can only access what is publically available.
 
