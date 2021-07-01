@@ -27,7 +27,7 @@ The script requires the following **ordered** arguments
 
 example with the current working directory in the repo
 ```
-> python convert-arches.py https://www.example-arches.com 13c335be-abcd-1234-5678-177803a4ef82 C:\path\to\output.rdf
+> python convert-arches.py https://www.example-arches.com 13c335be-abcd-1234-5678-177803a4ef82 C:\path\to\ouput\directory
 
-> python convert-arches.py https://www.example-arches.com 00000171-a306-48c5-9cd0-cbe5d08a995b,00000230-0a58-4917-a88e-69bdbd8f68c9 C:\path\to\output.rdf
+> python convert-arches.py https://www.example-arches.com 00000171-a306-48c5-9cd0-cbe5d08a995b,00000230-0a58-4917-a88e-69bdbd8f68c9 C:\path\to\ouput\directory
 ```
